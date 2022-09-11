@@ -1,0 +1,34 @@
+Snippet 1:
+var			value
+auntContactInfo[0]	"Paula"
+auntContactInfo[1]	"Smith"
+auntContactInfo[2]	"1234 Main Street"
+auntContactInfo[3]	"St. Louis"
+auntContactInfo[4]	"MO"
+auntContactInfo[5]	12345
+
+console:
+"Paula", "Smith", "1234 Main Street", "St. Louis", "MO", 12345
+
+
+Snippet 2:
+var		value
+produce[0]	"apples"
+produce[1]	"oranges"
+frozen[0]	"broccoli"
+frozen[1]	"ice cream"
+frozen[2]	"hashbrowns"
+
+console:
+"broccoli", "ice cream", "hashbrowns"
+
+
+Snippet 3:
+var		value
+movieLibrary[0]	"Bambi"
+movieLibrary[1]	"E.T." --> "Beetlejuice"
+movieLibrary[2]	"Toy Story"
+movieLibrary[3]	"Zoro"
+
+console:
+"Bambi", "Beetlejuice", "Toy Story", "Zoro"

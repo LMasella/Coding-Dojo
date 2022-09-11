@@ -1,0 +1,1 @@
+Installed indent-rainbow extension.
